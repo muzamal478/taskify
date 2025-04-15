@@ -67,7 +67,8 @@
     npm start
 
 - Opens at http://localhost:3000.
-- ![](https://github.com/muzamal478/taskify/blob/main/demo_video.gif)
+
+![](https://github.com/muzamal478/taskify/blob/main/demo_video.gif)
 
 ## Contact
 - GitHub: [muzamal478](https://github.com/muzamal478)
