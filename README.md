@@ -1,6 +1,6 @@
 # Taskify - Task Management App
 
-![Taskify Screenshot](public/screenshot.png)
+![Taskify Screenshot](screenshot.jpeg)
 
 **Taskify** is a modern task management application with secure Firebase authentication. It features user signup/login, password reset, profile management, and a "Remember Me" option for seamless logins. Built with React, Tailwind CSS, and Firebase, Taskify offers a sky-themed, responsive UI with dark mode support.
 
@@ -23,16 +23,6 @@
   - **Frontend**: React, Tailwind CSS, React Router, React Toastify.
   - **Backend**: Firebase Authentication.
   - **Hosting**: Firebase Hosting (optional GitHub Pages).
-
-## Demo
-
-Live URL: [https://taskmanager-b714f.web.app](https://taskmanager-b714f.web.app) *(Update after deployment)*
-
-## Screenshots
-
-| Login | Signup | Profile |
-|-------|--------|---------|
-| ![Login](public/login.png) | ![Signup](public/signup.png) | ![Profile](public/profile.png) |
 
 ## Prerequisites
 
@@ -76,7 +66,6 @@ Live URL: [https://taskmanager-b714f.web.app](https://taskmanager-b714f.web.app)
     npm start
 
 - Opens at http://localhost:3000.
-- Live URL: https://taskmanager-b714f.web.app.
 
 ## Contact
 - GitHub: [muzamal478](https://github.com/muzamal478)
