@@ -15,7 +15,6 @@
   - Displays user name ("Welcome, [Name]").
   - Logout functionality.
 - **UI/UX**:
-  - Sky-themed backgrounds (login, signup, profile).
   - Responsive: Mobile-friendly, desktop-optimized.
   - Dark mode support.
   - Smooth animations, toasts, and loading states.
@@ -71,4 +70,4 @@
 
 ## Contact
 - GitHub: [muzamal478](https://github.com/muzamal478)
-- Email: [Email](muzamallasghar47@gmail.com)
+- Email: [muzamallasghar47@gmail.com](muzamallasghar47@gmail.com)
